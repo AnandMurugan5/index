@@ -1,0 +1,19 @@
+{
+  "name": "iammuruganandham.github.io",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnandMurugan5/iammuruganandham.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnandMurugan5/iammuruganandham.github.io/issues"
+  },
+  "homepage": "https://github.com/AnandMurugan5/iammuruganandham.github.io#index.html"
+}
